@@ -1,0 +1,86 @@
+{
+  "date": "2026-08-31",
+  "time": "20:00:00",
+  "floatplane_link": "https://www.floatplane.com/post/USXN0sR1iJ",
+  "songs": [
+    {
+      "time": "00:05:32",
+      "artist": "Esther Abrami",
+      "song_title": "No.9 Frank's Waltz"
+    },
+    {
+      "time": "00:06:13",
+      "artist": "James Shimoji",
+      "song_title": "Pepsi Man Theme Song"
+    },
+    {
+      "time": "00:12:45",
+      "artist": "James Shimoji",
+      "song_title": "Pepsi Man Theme Song"
+    },
+    {
+      "time": "00:18:00",
+      "artist": "Raffi",
+      "song_title": "Banana Phone"
+    },
+    {
+      "time": "00:21:50",
+      "artist": "Esther Abrami",
+      "song_title": "No.9 Frank's Waltz"
+    },
+    {
+      "time": "00:22:55",
+      "artist": "Vennu Mallesh",
+      "song_title": "It's My Life What Ever I Wanna Do"
+    },
+    {
+      "time": "00:28:40",
+      "artist": "Super Mario 64",
+      "song_title": "Crank That"
+    },
+    {
+      "time": "00:35:05",
+      "artist": "Tim and Eric",
+      "song_title": "Spaghetti Again"
+    },
+    {
+      "time": "00:38:40",
+      "artist": "Stardew Valley",
+      "song_title": "Summer (Nature's Crescendo)"
+    },
+    {
+      "time": "00:43:55",
+      "artist": "Justin Kintzel",
+      "song_title": "My Name is John Daker"
+    },
+    {
+      "time": "00:48:00",
+      "artist": "Hot Dad",
+      "song_title": "All Star (Inverted Cover)"
+    },
+    {
+      "time": "00:52:39",
+      "artist": "Animal Crossing",
+      "song_title": "Bubblegum kk"
+    },
+    {
+      "time": "00:57:22",
+      "artist": "Kazoo Kid",
+      "song_title": "Trap Remix FUN FUN FUN"
+    }
+  ],
+  "events": [
+    {
+      "time": "00:05:00",
+      "name": "C Y M B A L - T O S S -"
+    },
+    {
+      "time": "00:33:56",
+      "name": "C Y M B A L - T O S S -"
+    }
+  ],
+  "statistics": {
+    "bin_songs": 11,
+    "youtube_friendly": 0
+  }
+}

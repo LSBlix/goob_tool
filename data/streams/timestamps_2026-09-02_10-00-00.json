@@ -1,0 +1,90 @@
+{
+  "date": "2026-09-02",
+  "time": "10:00:00",
+  "floatplane_link": "https://www.floatplane.com/post/5AQ0eAUu5C",
+  "songs": [
+    {
+      "time": "00:05:29",
+      "artist": "James Shimoji",
+      "song_title": "Pepsi Man Theme Song"
+    },
+    {
+      "time": "00:11:28",
+      "artist": "William Maranci Mashups",
+      "song_title": "Lose Yourself But It's Mr. Blue Sky"
+    },
+    {
+      "time": "00:16:05",
+      "artist": "Schmoyoho",
+      "song_title": "Rent: Too Damn high!"
+    },
+    {
+      "time": "00:19:28",
+      "artist": "Marvel Vs Capcom 2",
+      "song_title": "Carnival Stage"
+    },
+    {
+      "time": "00:24:48",
+      "artist": "Sanic",
+      "song_title": "Chem plant"
+    },
+    {
+      "time": "00:28:48",
+      "artist": "Goodboy Noah",
+      "song_title": "Cheeseburger Quesadilla!"
+    },
+    {
+      "time": "00:31:36",
+      "artist": "Bill McClintock",
+      "song_title": "Hip to Be the Sandman"
+    },
+    {
+      "time": "00:37:05",
+      "artist": "Arnold Palmer Tournament Golf",
+      "song_title": "BGM 1"
+    },
+    {
+      "time": "00:41:07",
+      "artist": "Sanic",
+      "song_title": "You can't do anything"
+    },
+    {
+      "time": "00:44:50",
+      "artist": "FF7",
+      "song_title": "Let the battles Begin!"
+    },
+    {
+      "time": "00:49:10",
+      "artist": "Daniel Cupps",
+      "song_title": "Brick by Brick by Tim Heidecker and Fred Armisen (Office Hours Live 4/3/19)"
+    },
+    {
+      "time": "00:53:00",
+      "artist": "Smash mouth",
+      "song_title": "Why can't we be fronk?"
+    },
+    {
+      "time": "00:58:38",
+      "artist": "unknown",
+      "song_title": "We Will Rock You - Queen vs Songsmith"
+    }
+  ],
+  "events": [
+    {
+      "time": "00:20:15",
+      "name": "C Y M B A L - T O S S -"
+    },
+    {
+      "time": "00:36:07",
+      "name": "C Y M B A L - T O S S -"
+    },
+    {
+      "time": "01:00:43",
+      "name": "C Y M B A L - T O S S -"
+    }
+  ],
+  "statistics": {
+    "bin_songs": 13,
+    "youtube_friendly": 0
+  }
+}
