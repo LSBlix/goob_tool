@@ -1,0 +1,103 @@
+{
+  "date": "2026-09-07",
+  "time": "20:03:00",
+  "floatplane_link": "https://www.floatplane.com/post/fsTd4Yt2bQ",
+  "songs": [
+    {
+      "time": "00:05:49",
+      "artist": "kik0in",
+      "song_title": "Enter Sandman (jazz version)"
+    },
+    {
+      "time": "00:12:09",
+      "artist": "Gran Turismo 3",
+      "song_title": "Slipstream"
+    },
+    {
+      "time": "00:14:54",
+      "artist": "Esther Abrami",
+      "song_title": "No.9 Frank's Waltz"
+    },
+    {
+      "time": "00:17:20",
+      "artist": "James Shimoji",
+      "song_title": "Pepsi Man Theme Song"
+    },
+    {
+      "time": "00:21:49",
+      "artist": "Pokemon Black",
+      "song_title": "Let's Groove"
+    },
+    {
+      "time": "00:27:37",
+      "artist": "SLACKCiRCUS",
+      "song_title": "Fabulous Secret Powers"
+    },
+    {
+      "time": "00:31:35",
+      "artist": "Daniel Cupps",
+      "song_title": "Brick by Brick by Tim Heidecker and Fred Armisen (Office Hours Live 4/3/19)"
+    },
+    {
+      "time": "00:35:17",
+      "artist": "The Price is Right",
+      "song_title": "Extended Theme"
+    },
+    {
+      "time": "00:38:56",
+      "artist": "Wind Waker",
+      "song_title": "Outset Island"
+    },
+    {
+      "time": "00:41:18",
+      "artist": "Aunty Donna",
+      "song_title": "Hotdogs for Breakfast"
+    },
+    {
+      "time": "00:48:05",
+      "artist": "Lucia Sarmiento & Jemma Heigis",
+      "song_title": "Hey Arnold"
+    },
+    {
+      "time": "00:50:57",
+      "artist": "The Pointer Sisters",
+      "song_title": "Pinball Number Count"
+    },
+    {
+      "time": "00:53:58",
+      "artist": "strawinsky.net",
+      "song_title": "I am the Globglogabgalab"
+    },
+    {
+      "time": "00:56:31",
+      "artist": "Seatbelts",
+      "song_title": "Tank!"
+    }
+  ],
+  "events": [
+    {
+      "time": "00:03:50",
+      "name": "C Y M B A L - T O S S -"
+    },
+    {
+      "time": "00:22:31",
+      "name": "C Y M B A L - T O S S -"
+    },
+    {
+      "time": "00:23:19",
+      "name": "C Y M B A L - T O S S -"
+    },
+    {
+      "time": "00:40:22",
+      "name": "C Y M B A L - T O S S -"
+    },
+    {
+      "time": "00:42:23",
+      "name": "C Y M B A L - T O S S -"
+    }
+  ],
+  "statistics": {
+    "bin_songs": 13,
+    "youtube_friendly": 0
+  }
+}

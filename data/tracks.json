@@ -235,11 +235,12 @@
           "2026-08-12",
           "2026-08-19",
           "2026-08-27",
-          "2026-09-04"
+          "2026-09-04",
+          "2026-09-07"
         ]
       },
-      "number_of_times_played": 12,
-      "last_time_played": "2026-09-04",
+      "number_of_times_played": 13,
+      "last_time_played": "2026-09-07",
       "date_with_most_reproductions": "2026-07-09",
       "most_reproductions_record": 2
     },
@@ -1080,11 +1081,12 @@
           "2026-08-28",
           "2026-08-31",
           "2026-09-01",
-          "2026-09-03"
+          "2026-09-03",
+          "2026-09-07"
         ]
       },
-      "number_of_times_played": 144,
-      "last_time_played": "2026-09-03",
+      "number_of_times_played": 145,
+      "last_time_played": "2026-09-07",
       "date_with_most_reproductions": "2026-07-03",
       "most_reproductions_record": 13
     },
@@ -1515,11 +1517,12 @@
           "2026-05-14",
           "2026-05-19",
           "2026-07-17",
-          "2026-08-27"
+          "2026-08-27",
+          "2026-09-07"
         ]
       },
-      "number_of_times_played": 4,
-      "last_time_played": "2026-08-27",
+      "number_of_times_played": 5,
+      "last_time_played": "2026-09-07",
       "date_with_most_reproductions": "2026-05-14",
       "most_reproductions_record": 1
     },
@@ -1903,11 +1906,12 @@
         "dates_played": [
           "2026-07-09",
           "2026-07-10",
-          "2026-08-17"
+          "2026-08-17",
+          "2026-09-07"
         ]
       },
-      "number_of_times_played": 3,
-      "last_time_played": "2026-08-17",
+      "number_of_times_played": 4,
+      "last_time_played": "2026-09-07",
       "date_with_most_reproductions": "2026-07-09",
       "most_reproductions_record": 1
     },
@@ -3490,11 +3494,12 @@
         "dates_played": [
           "2026-05-08",
           "2026-07-24",
-          "2026-08-04"
+          "2026-08-04",
+          "2026-09-07"
         ]
       },
-      "number_of_times_played": 3,
-      "last_time_played": "2026-08-04",
+      "number_of_times_played": 4,
+      "last_time_played": "2026-09-07",
       "date_with_most_reproductions": "2026-05-08",
       "most_reproductions_record": 1
     },
@@ -3606,11 +3611,12 @@
         "is_bin": true,
         "dates_played": [
           "2026-05-20",
-          "2026-08-24"
+          "2026-08-24",
+          "2026-09-07"
         ]
       },
-      "number_of_times_played": 2,
-      "last_time_played": "2026-08-24",
+      "number_of_times_played": 3,
+      "last_time_played": "2026-09-07",
       "date_with_most_reproductions": "2026-05-20",
       "most_reproductions_record": 1
     },
@@ -4946,11 +4952,12 @@
         "dates_played": [
           "2026-05-18",
           "2026-07-20",
-          "2026-08-07"
+          "2026-08-07",
+          "2026-09-07"
         ]
       },
-      "number_of_times_played": 3,
-      "last_time_played": "2026-08-07",
+      "number_of_times_played": 4,
+      "last_time_played": "2026-09-07",
       "date_with_most_reproductions": "2026-05-18",
       "most_reproductions_record": 1
     },
@@ -5309,11 +5316,12 @@
         "is_bin": true,
         "dates_played": [
           "2026-06-24",
-          "2026-09-02"
+          "2026-09-02",
+          "2026-09-07"
         ]
       },
-      "number_of_times_played": 2,
-      "last_time_played": "2026-09-02",
+      "number_of_times_played": 3,
+      "last_time_played": "2026-09-07",
       "date_with_most_reproductions": "2026-06-24",
       "most_reproductions_record": 1
     },
@@ -5495,11 +5503,12 @@
           "2026-08-26",
           "2026-08-31",
           "2026-09-02",
-          "2026-09-03"
+          "2026-09-03",
+          "2026-09-07"
         ]
       },
-      "number_of_times_played": 26,
-      "last_time_played": "2026-09-03",
+      "number_of_times_played": 27,
+      "last_time_played": "2026-09-07",
       "date_with_most_reproductions": "2026-08-18",
       "most_reproductions_record": 4
     },
@@ -6158,11 +6167,12 @@
         "ignore_stats": false,
         "is_bin": true,
         "dates_played": [
-          "2026-08-25"
+          "2026-08-25",
+          "2026-09-07"
         ]
       },
-      "number_of_times_played": 1,
-      "last_time_played": "2026-08-25",
+      "number_of_times_played": 2,
+      "last_time_played": "2026-09-07",
       "date_with_most_reproductions": "2026-08-25",
       "most_reproductions_record": 1
     },
@@ -6579,6 +6589,78 @@
       "number_of_times_played": 1,
       "last_time_played": "2026-09-03",
       "date_with_most_reproductions": "2026-09-03",
+      "most_reproductions_record": 1
+    },
+    {
+      "title": "Let's Groove",
+      "artist": "Pokemon Black",
+      "youtube": "",
+      "aliases": [],
+      "hidden": {
+        "description": "dancing toothless",
+        "ignore_stats": false,
+        "is_bin": true,
+        "dates_played": [
+          "2026-09-07"
+        ]
+      },
+      "number_of_times_played": 1,
+      "last_time_played": "2026-09-07",
+      "date_with_most_reproductions": "2026-09-07",
+      "most_reproductions_record": 1
+    },
+    {
+      "title": "Extended Theme",
+      "artist": "The Price is Right",
+      "youtube": "https://www.youtube.com/watch?v=G8iOmVd1W_g",
+      "aliases": [],
+      "hidden": {
+        "description": "",
+        "ignore_stats": false,
+        "is_bin": true,
+        "dates_played": [
+          "2026-09-07"
+        ]
+      },
+      "number_of_times_played": 1,
+      "last_time_played": "2026-09-07",
+      "date_with_most_reproductions": "2026-09-07",
+      "most_reproductions_record": 1
+    },
+    {
+      "title": "Pinball Number Count",
+      "artist": "The Pointer Sisters",
+      "youtube": "https://www.youtube.com/watch?v=BWFQXs2_et8",
+      "aliases": [],
+      "hidden": {
+        "description": "pinball animation",
+        "ignore_stats": false,
+        "is_bin": true,
+        "dates_played": [
+          "2026-09-07"
+        ]
+      },
+      "number_of_times_played": 1,
+      "last_time_played": "2026-09-07",
+      "date_with_most_reproductions": "2026-09-07",
+      "most_reproductions_record": 1
+    },
+    {
+      "title": "I am the Globglogabgalab",
+      "artist": "strawinsky.net",
+      "youtube": "https://www.youtube.com/watch?v=W1dRBWyf6z8",
+      "aliases": [],
+      "hidden": {
+        "description": "human worm",
+        "ignore_stats": false,
+        "is_bin": true,
+        "dates_played": [
+          "2026-09-07"
+        ]
+      },
+      "number_of_times_played": 1,
+      "last_time_played": "2026-09-07",
+      "date_with_most_reproductions": "2026-09-07",
       "most_reproductions_record": 1
     }
   ]
