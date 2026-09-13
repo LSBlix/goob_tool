@@ -2250,7 +2250,7 @@
       "youtube": "https://www.youtube.com/watch?v=D-tjEn7i9fA",
       "aliases": [],
       "hidden": {
-        "description": "",
+        "description": "i wanna take you for a ride",
         "ignore_stats": false,
         "is_bin": true,
         "dates_played": [
@@ -3121,10 +3121,11 @@
       "artist": "Rigboogle",
       "youtube": "https://www.youtube.com/watch?v=3naJeF7OEDk",
       "aliases": [
-        "Snoop doge, SMOKE WEED"
+        "Snoop doge",
+        "SMOKE WEED"
       ],
       "hidden": {
-        "description": "",
+        "description": "Blend W",
         "ignore_stats": false,
         "is_bin": true,
         "dates_played": [
@@ -6569,17 +6570,134 @@
       "youtube": "https://www.youtube.com/watch?v=vQXHTXQrHhI",
       "aliases": [],
       "hidden": {
-        "description": "Slipknot",
+        "description": "Salt n Pepper, Slipknot",
         "ignore_stats": false,
         "is_bin": true,
         "dates_played": [
-          "2026-09-03"
+          "2026-09-03",
+          "2026-09-08"
+        ]
+      },
+      "number_of_times_played": 2,
+      "last_time_played": "2026-09-08",
+      "date_with_most_reproductions": "2026-09-08",
+      "most_reproductions_record": 1
+    },
+    {
+      "title": "Femmey26",
+      "artist": "The Centenary Organ - Take on Me",
+      "youtube": "https://www.youtube.com/watch?v=rbvY0VT3SJI",
+      "aliases": [],
+      "hidden": {
+        "description": "",
+        "ignore_stats": false,
+        "is_bin": true,
+        "dates_played": [
+          "2026-09-08"
         ]
       },
       "number_of_times_played": 1,
-      "last_time_played": "2026-09-03",
-      "date_with_most_reproductions": "2026-09-03",
-      "most_reproductions_record": 1
+      "last_time_played": "2026-09-08",
+      "date_with_most_reproductions": "",
+      "most_reproductions_record": 0
+    },
+    {
+      "title": "Zildjian Live! - Larnell Lewis",
+      "artist": "Avedis Zildjian Company",
+      "youtube": "https://www.youtube.com/watch?v=Jd1X5JWaGgQ",
+      "aliases": [],
+      "hidden": {
+        "description": "",
+        "ignore_stats": false,
+        "is_bin": true,
+        "dates_played": [
+          "2026-09-08"
+        ]
+      },
+      "number_of_times_played": 1,
+      "last_time_played": "",
+      "date_with_most_reproductions": "",
+      "most_reproductions_record": 0
+    },
+    {
+      "title": "birds for some reason",
+      "artist": "Avocado Animations",
+      "youtube": "https://www.youtube.com/watch?v=bp4_7T9J6Fg",
+      "aliases": [],
+      "hidden": {
+        "description": "michael jackson chicago",
+        "ignore_stats": false,
+        "is_bin": true,
+        "dates_played": []
+      },
+      "number_of_times_played": 0,
+      "last_time_played": "",
+      "date_with_most_reproductions": "",
+      "most_reproductions_record": 0
+    },
+    {
+      "title": "Star Wars Trumpet Stacy Hedger",
+      "artist": "JK",
+      "youtube": "https://www.youtube.com/watch?v=z9vngz6pZDY",
+      "aliases": [],
+      "hidden": {
+        "description": "",
+        "ignore_stats": false,
+        "is_bin": true,
+        "dates_played": []
+      },
+      "number_of_times_played": 0,
+      "last_time_played": "",
+      "date_with_most_reproductions": "",
+      "most_reproductions_record": 0
+    },
+    {
+      "title": "Potato Knishes",
+      "artist": "ratboygenius",
+      "youtube": "https://www.youtube.com/watch?v=IFfLCuHSZ-U",
+      "aliases": [],
+      "hidden": {
+        "description": "",
+        "ignore_stats": false,
+        "is_bin": true,
+        "dates_played": []
+      },
+      "number_of_times_played": 0,
+      "last_time_played": "",
+      "date_with_most_reproductions": "",
+      "most_reproductions_record": 0
+    },
+    {
+      "title": "The Dance of Eternity",
+      "artist": "Dream Theater",
+      "youtube": "https://www.youtube.com/watch?v=eYCYGpu0OxM",
+      "aliases": [],
+      "hidden": {
+        "description": "",
+        "ignore_stats": false,
+        "is_bin": true,
+        "dates_played": []
+      },
+      "number_of_times_played": 0,
+      "last_time_played": "",
+      "date_with_most_reproductions": "",
+      "most_reproductions_record": 0
+    },
+    {
+      "title": "Schfifty Five",
+      "artist": "Group X",
+      "youtube": "https://www.youtube.com/watch?v=O9Q2WvrF_Lg",
+      "aliases": [],
+      "hidden": {
+        "description": "",
+        "ignore_stats": false,
+        "is_bin": true,
+        "dates_played": []
+      },
+      "number_of_times_played": 0,
+      "last_time_played": "",
+      "date_with_most_reproductions": "",
+      "most_reproductions_record": 0
     }
   ]
 }
