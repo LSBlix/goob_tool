@@ -6698,6 +6698,38 @@
       "last_time_played": "",
       "date_with_most_reproductions": "",
       "most_reproductions_record": 0
+    },
+    {
+      "title": "System of a Down - B.Y.O.B. But it's Take Me Home, Country Roads",
+      "artist": "William Maranci Mashups",
+      "youtube": "https://www.youtube.com/watch?v=zdohpTAFQqE",
+      "aliases": [],
+      "hidden": {
+        "description": "",
+        "ignore_stats": false,
+        "is_bin": true,
+        "dates_played": []
+      },
+      "number_of_times_played": 0,
+      "last_time_played": "",
+      "date_with_most_reproductions": "",
+      "most_reproductions_record": 0
+    },
+    {
+      "title": "PASSPORT.MID",
+      "artist": "Windows 3.0",
+      "youtube": "https://www.youtube.com/watch?v=pXYgAIh8oNo",
+      "aliases": [],
+      "hidden": {
+        "description": "",
+        "ignore_stats": false,
+        "is_bin": true,
+        "dates_played": []
+      },
+      "number_of_times_played": 0,
+      "last_time_played": "",
+      "date_with_most_reproductions": "",
+      "most_reproductions_record": 0
     }
   ]
 }
