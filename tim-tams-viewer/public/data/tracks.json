@@ -587,7 +587,7 @@
       "youtube": "https://www.youtube.com/watch?v=c_De56NKPWU",
       "aliases": [],
       "hidden": {
-        "description": "",
+        "description": "rare soul disco funk",
         "ignore_stats": false,
         "is_bin": true,
         "dates_played": [
@@ -1173,7 +1173,7 @@
       "youtube": "https://www.youtube.com/watch?v=sfIxRxfkr1U",
       "aliases": [],
       "hidden": {
-        "description": "",
+        "description": "John Cena in a pink suit vibing",
         "ignore_stats": false,
         "is_bin": true,
         "dates_played": [
@@ -6722,6 +6722,54 @@
       "aliases": [],
       "hidden": {
         "description": "",
+        "ignore_stats": false,
+        "is_bin": true,
+        "dates_played": []
+      },
+      "number_of_times_played": 0,
+      "last_time_played": "",
+      "date_with_most_reproductions": "",
+      "most_reproductions_record": 0
+    },
+    {
+      "title": "Creep but it's YMCA",
+      "artist": "DJ VIBEKILLER",
+      "youtube": "https://www.youtube.com/watch?v=NWRfVWiYM6M",
+      "aliases": [],
+      "hidden": {
+        "description": "",
+        "ignore_stats": false,
+        "is_bin": true,
+        "dates_played": []
+      },
+      "number_of_times_played": 0,
+      "last_time_played": "",
+      "date_with_most_reproductions": "",
+      "most_reproductions_record": 0
+    },
+    {
+      "title": "I Drive a Chevrolet Movie Theater",
+      "artist": "Interior Crocodile Alligator",
+      "youtube": "",
+      "aliases": [],
+      "hidden": {
+        "description": "",
+        "ignore_stats": false,
+        "is_bin": false,
+        "dates_played": []
+      },
+      "number_of_times_played": 0,
+      "last_time_played": "",
+      "date_with_most_reproductions": "",
+      "most_reproductions_record": 0
+    },
+    {
+      "title": "Chacarron",
+      "artist": "El Chombo",
+      "youtube": "",
+      "aliases": [],
+      "hidden": {
+        "description": "hurrgedurr",
         "ignore_stats": false,
         "is_bin": true,
         "dates_played": []
